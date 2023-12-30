@@ -1,2 +1,2 @@
 # Hotel-Booking-Analysis
-![Inetflix](./datasets/netfliximg.png)
+![hotel](hotel.png)
