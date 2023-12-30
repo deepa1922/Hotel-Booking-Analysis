@@ -1,2 +1,2 @@
 # Hotel-Booking-Analysis
-![hotel](hotel img.png)
+![hotel](Dataset/hotel_img.png)
