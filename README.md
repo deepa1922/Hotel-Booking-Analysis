@@ -1,6 +1,6 @@
 # Hotel-Booking-Analysis
 
-Explore hotel data using Python and libraries like Pandas, Matplotlib, and Seaborn. The project aims to analyze the dataset, uncover trends in hotel bookings, and draw meaningful conclusions about factors influencing the hotel business.
+Explored hotel data using Python and libraries like Pandas, Matplotlib, and Seaborn. The project aims to analyze the dataset, uncover trends in hotel bookings, and draw meaningful conclusions about factors influencing the hotel business.
 
 ![hotel](Dataset/hotel_img.png)
 
@@ -8,11 +8,11 @@ Explore hotel data using Python and libraries like Pandas, Matplotlib, and Seabo
 - This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
 # Key Steps
-1. data overview
-2. Data loading and preprocessing
-3. Data analysis and exploration
-4. Data visualization using Matplotlib and Seaborn
-5. conclusion
+1. Data Overview
+2. Data Loading and Preprocessing
+3. Data Analysis and Exploration
+4. Data Visualization using Matplotlib and Seaborn
+5. Conclusion
 
 # Key Questions:
 1. Which type of hotel is mostly prefered by the guests?
